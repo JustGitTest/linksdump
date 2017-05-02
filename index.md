@@ -2,13 +2,13 @@
 Интернет - помойка, найти в нем необходимые ссылки становится все более сложным делом, некоторые мне не удалось найти вовсе, пусть те что еще не забыл будут в одном месте.
 
 **Про приватность**
--Брюс Шнайер
-	-[Партнёрство при слежке](http://www.cypherpunks.ru/Surveillance-partnership.html#Surveillance-partnership)
-	-[Цена приватности](http://www.cypherpunks.ru/Privacy-value.html#Privacy-value)
-	-[Приватность в современном мире](http://www.cypherpunks.ru/Modern-world-privacy.html#Modern-world-privacy)
-	-[Секреты и ложь(книга)](http://flibusta.is/b/92638)
-	-[Практическая криптография(книга)](http://flibusta.is/b/352928)
-	-[Тайна личной жизни в современном мире](https://piratemedia.net/vse-vashi-dannye-prinadlezhat-nam-tayna-lichnoy-zhizni-sovremennom-mire )
+-	Брюс Шнайер
+	-	[Партнёрство при слежке](http://www.cypherpunks.ru/Surveillance-partnership.html#Surveillance-partnership)
+	-	[Цена приватности](http://www.cypherpunks.ru/Privacy-value.html#Privacy-value)
+	-	[Приватность в современном мире](http://www.cypherpunks.ru/Modern-world-privacy.html#Modern-world-privacy)
+	-	[Секреты и ложь(книга)](http://flibusta.is/b/92638)
+	-	[Практическая криптография(книга)](http://flibusta.is/b/352928)
+	-	[Тайна личной жизни в современном мире](https://piratemedia.net/vse-vashi-dannye-prinadlezhat-nam-tayna-lichnoy-zhizni-sovremennom-mire )
 - [Взломщики кодов(книга)](http://flibusta.is/b/314483)
 - Про facebook:
  - [Состав досье на пользователя](https://geektimes.ru/post/279856/#comment_9534416)
