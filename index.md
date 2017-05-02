@@ -1,10 +1,8 @@
-http://txti.es/linksdump Mg563&32k
-
-###Где я?
+**Где я?**
 Интернет - помойка, найти в нем необходимые ссылки становится все более сложным делом, некоторые мне не удалось найти вовсе, пусть те что еще не забыл будут в одном месте.
 
 **Про приватность**
-- [Брюс Шнайер](https://ru.wikipedia.org/wiki/Шнайер,_Брюс):
+**Брюс Шнайер**
  - [Партнёрство при слежке](http://www.cypherpunks.ru/Surveillance-partnership.html#Surveillance-partnership)
  - [Цена приватности](http://www.cypherpunks.ru/Privacy-value.html#Privacy-value)
  - [Приватность в современном мире](http://www.cypherpunks.ru/Modern-world-privacy.html#Modern-world-privacy)
