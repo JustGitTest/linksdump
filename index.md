@@ -24,9 +24,10 @@
 - [Привязка к номеру телефона == уязвимость](https://medium.com/digital-security-panda/%D0%BA%D0%B0%D0%BA-%D0%B7%D0%B0%D1%89%D0%B8%D1%89%D1%91%D0%BD%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B5%D1%81%D1%81%D0%B5%D0%BD%D0%B4%D0%B6%D0%B5%D1%80%D1%8B-%D0%B7%D0%B0%D1%89%D0%B8%D1%89%D0%B5%D0%BD%D1%8B-%D0%BE%D1%82-%D0%BA%D1%80%D0%B0%D0%B6%D0%B8-sms-2f7883d9166f)
  
 **Про приложения для Android**
-	- [Проверка хомячковых VPN сервисов](http://www.opennet.ru/opennews/art.shtml?num=45940)
-	- [Проверка менеджеров паролей](http://www.opennet.ru/opennews/art.shtml?num=46121)
-	- [про GPlay](https://sohabr.net/habr/post/325188/)
+- [Проверка хомячковых VPN сервисов](http://www.opennet.ru/opennews/art.shtml?num=45940)
+- [Проверка менеджеров паролей](http://www.opennet.ru/opennews/art.shtml?num=46121)
+- [Анализ уязвимости приложений с открытыми портами](http://www.opennet.ru/opennews/art.shtml?num=46472)
+- [про GPlay](https://sohabr.net/habr/post/325188/)
 
 **Про интерфейсы**
 - [Психбольницы в руках пациентов(книга)](http://www.e-reading.club/book.php?book=31710) - *Как писать топорный софт, который прекрасно "продается" хомячкам*
