@@ -1,23 +1,23 @@
-**Где я?**
-Интернет - помойка, найти в нем необходимые ссылки становится все более сложным делом, некоторые мне не удалось найти вовсе, пусть те что еще не забыл будут в одном месте.
+Интернет - помойка, и мне все сложнее найти в нем "часто-рассылаемые" ссылки, пусть будут в одном месте.
 
 **Про приватность**
--	Брюс Шнайер
+-	Брюс Шнайер:
 	-	[Партнёрство при слежке](http://www.cypherpunks.ru/Surveillance-partnership.html#Surveillance-partnership)
 	-	[Цена приватности](http://www.cypherpunks.ru/Privacy-value.html#Privacy-value)
 	-	[Приватность в современном мире](http://www.cypherpunks.ru/Modern-world-privacy.html#Modern-world-privacy)
 	-	[Секреты и ложь(книга)](http://flibusta.is/b/92638)
 	-	[Практическая криптография(книга)](http://flibusta.is/b/352928)
--	[Тайна личной жизни в современном мире](https://piratemedia.net/vse-vashi-dannye-prinadlezhat-nam-tayna-lichnoy-zhizni-sovremennom-mire )
+-	[Тайна личной жизни в современном мире](https://piratemedia.net/vse-vashi-dannye-prinadlezhat-nam-tayna-lichnoy-zhizni-sovremennom-mire)
 - [Взломщики кодов(книга)](http://flibusta.is/b/314483)
 
 **Интернет и общество**
-- [Hossein_Derakhshan](https://en.wikipedia.org/wiki/Hossein_Derakhshan):
+- [Hossein Derakhshan](https://en.wikipedia.org/wiki/Hossein_Derakhshan):
 	- [Социальные сети убивают общение](https://m.geektimes.ru/post/283478/)
 	- [Современный web необходимо спасти](https://medium.com/russian/the-web-we-have-to-save-8371ce48700b#.kzncljsz5)
 - [Синдром упущенной выгоды](https://meduza.io/cards/u-vseh-krome-menya-takaya-interesnaya-zhizn-chto-so-mnoy-ne-tak)
 - [Про пользователей](https://www.linux.org.ru/news/opensource/13139965?cid=13142143)
-- [Экономика соц. сетей](http://masterok.livejournal.com/3583823.html#cutid1)
+- [Экономика соц. сетей](http://masterok.livejournal.com/3583823.html)
+- [Является ли facebook угрозой свободному обществу](https://geektimes.ru/post/287532/)
 
 **Авторизация через SMS - решето**
 - [Про двухвакторную авторизацию в телеграм](https://geektimes.ru/post/276238/)
@@ -41,9 +41,12 @@
 - [Шифропанки и анонимность в Bitcoin](https://bitnovosti.com/2016/04/19/the-rise-of-the-cypherpunks/)
 
 **Про IoT**
- - IoT - решето.
- - Подслушивающая урна
- - siri и ok google отправляют все в online
+- IoT - решето.
+- Подслушивающая урна
+- siri и ok google отправляют все в online
+- "Умная соковыжималка":
+	- [Умная соковыжималка Juicero выжала $120 млн из воздуха](https://sohabr.net/gt/post/288306/)
+	- [Соковыжималка Juicero — качественный, но слишком сложный и дорогой продукт](https://geektimes.ru/post/288546/)
 
 **Цифровые утопии(*забористая трава у авторов*)**
 - [Неокоммунизм](https://geektimes.ru/post/286862/)
@@ -63,15 +66,10 @@
 **Не IT**
 - [Про политические передачи на TV](https://knife.media/talk-show/)
 - [Нищенская мафия](https://takiedela.ru/2016/04/cheating/)
-- [Белорусь](http://maxim-nm.livejournal.com/256255.html)
-- [Блог СССР-фоба](http://maxim-nm.livejournal.com/256255.html)
-
-**Хорошо там где нас нет?**
-- США:
+- [Блог СССР-фоба](http://maxim-nm.livejournal.com/)
+- Хорошо там где нас нет?
 	- [Другая сторона Америки](http://lurkmo.re/Копипаста:Другая_сторона_Америки)
-	- [непутевые заметки о США](http://lib.rus.ec/b/80254/read)
-- Япония
+	- [Непутевые заметки о США](http://lib.rus.ec/b/80254/read)
 	- Найти блог русского в японии
-- Корея
 	- Найти блог русского в корее
-- [Жизнь во Франции](https://takiedela.ru/?author=516)
+	- [Заметки про францию](https://takiedela.ru/?author=516)
